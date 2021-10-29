@@ -29,7 +29,7 @@ class Program
         {
             for (int j = 0; j < m; j++)
             {
-                mt[i, j] = rnd.Next(0, 3);
+                mt[i, j] = rnd.Next(0, 10);
             }
         }
     }
